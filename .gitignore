@@ -1,0 +1,15 @@
+myenv/
+myvenv/
+env/
+ENV/
+erp/erp/settings.py
+erp/erp/urls.py
+erp/corsheaders/
+erp/hooks/
+erp/info/
+erp/**/migrations/
+erp/**/**/__pycache__/
+erp/**/__pycache__/
+erp/**/*.pyc
+erp/erp/app.log
+
