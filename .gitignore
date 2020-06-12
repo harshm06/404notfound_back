@@ -12,4 +12,5 @@ erp/**/**/__pycache__/
 erp/**/__pycache__/
 erp/**/*.pyc
 erp/erp/app.log
+ENV/
 
